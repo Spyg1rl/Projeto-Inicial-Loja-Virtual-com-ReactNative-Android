@@ -1,5 +1,5 @@
 # React Native Loja Roupas
-App criado para exemplificar o uso de navegações com o React Navigation para uma atividade do Senac, criação de um app de loja de roupas.
+App criado para exemplificar o uso de navegações com o React Navigation, projeto em desenvolvimento de um app de loja de roupas.
 
 <br>
 
